@@ -12,7 +12,7 @@ class Test1
 	}
 	
 	void hello(){
-		out.println("pradeep");
+		out.println("changed in remote repo");
 		out.println('pradeep');
 	}
 	
