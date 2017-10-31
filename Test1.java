@@ -13,7 +13,6 @@ class Test1
 	
 	void hello(){
 		out.println("pradeep");
-		out.println("hello");
 		out.println('pradeep');
 	}
 	
