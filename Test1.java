@@ -12,7 +12,7 @@ class Test1
 	}
 	
 	void hello(){
-		out.println("hello");
+		out.println("pradeep");
 	}
 	
 }
